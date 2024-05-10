@@ -3,7 +3,7 @@ layout: post
 title: A brief introduction
 date: 2024-05-08 18:54 +0200
 ---
-## Welcome to My Personal Journey into Ethical Hacking
+## Welcome to my personal journey into ethical hacking
 ### Introduction
 Hello and welcome to my blog where I will document my personal transition into the world of cybersecurity. My goal is to share the insights and experiences I gain along the way, and to provide resources for those who wish to follow a similar path.
 
