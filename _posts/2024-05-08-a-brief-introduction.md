@@ -2,6 +2,8 @@
 layout: post
 title: A brief introduction
 date: 2024-05-08 18:54 +0200
+categories: Personal
+# tags:
 ---
 ## Welcome to my personal journey into ethical hacking
 ### Introduction

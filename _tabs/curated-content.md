@@ -22,9 +22,17 @@ Here, you will find resources that I find incredibly useful for learning new ski
 - [Cisco Networking Academy](https://www.netacad.com/) : A very solid resource for learning networking. Although it’s vendor-oriented, the skills acquired there are applicable to any context. The fact that courses are interactive with Cisco Packet Tracers, combining theory and practice, is a huge plus. I recommend starting with [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials).
 - [networkacademy.io](https://www.networkacademy.io/) : Another good resource, also vendor-oriented toward Cisco, with a course to prepare for the CCNA. Unfortunately, it’s still being updated at the moment, but the parts that are online are good quality.
 
-
-<!-- # Cybersecurity -->
-
 # Git
+
 - [Official documentation](https://devdocs.io/git/) : Just like programming, the official documentation is always a good bookmark to have at hand.
 - [learngitbranching](https://learngitbranching.js.org/) : An interactive, solid tutorial to learn Git. It covers concepts and scenarios you’ll encounter in real-life development, rather than overwhelming you with every single argument you’ll never use.
+
+# Ethical hacking
+
+- [The AllTheThings repos](https://github.com/swisskyrepo) : Litteral treasure chests, here are the individual link you should explore and always keep these at hands. Also, feel free to support [Swissky](https://github.com/swisskyrepo) for his **MASSIVE** work.
+<br>
+    - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/)
+    - [Hardware All The Things](https://swisskyrepo.github.io/HardwareAllTheThings/)
+    - [Internal All The Things](https://swisskyrepo.github.io/InternalAllTheThings/)
+
+- [hacktricks](https://book.hacktricks.xyz/) : Another great project offering qualitative and free ressources, based on the author's experience doing CTFs, real life pentesting and researches. 
