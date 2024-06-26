@@ -35,4 +35,8 @@ Here, you will find resources that I find incredibly useful for learning new ski
     - [Hardware All The Things](https://swisskyrepo.github.io/HardwareAllTheThings/)
     - [Internal All The Things](https://swisskyrepo.github.io/InternalAllTheThings/)
 
-- [hacktricks](https://book.hacktricks.xyz/) : Another great project offering qualitative and free ressources, based on the author's experience doing CTFs, real life pentesting and researches. 
+- [hacktricks](https://book.hacktricks.xyz/) : Another great project offering qualitative and free ressources, based on the author's experience doing CTFs, real life pentesting and researches.
+
+# Blue team learning
+
+- [LetsDefend](https://app.letsdefend.io/) : Nice ebsite dedicated to teach blue team operations, it gets right to the point.
