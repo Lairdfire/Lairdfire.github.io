@@ -15,6 +15,7 @@ Here, you will find resources that I find incredibly useful for learning new ski
 # Programming
 - [devdocs.io](https://devdocs.io/) : You can never go wrong with official documentation ; it might be difficult to read and understand at times, but it's **essential** to know how to read it. This website gathers most documentations in one place.
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) : As good as the documentation or references are, learning a programming language **MUST** be paired with projects. This is how knowledge truly sticks in the brain. This repository gathers all kinds of projects if you don't have any in mind.
+- [Build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) : same as above, some projects are in both repos, another solid ressource.
 - [learncpp.com](https://www.learncpp.com/) : An **INVALUABLE** resource for C++ programmers (from beginners to advanced). It covers most concepts in an easy-to-understand way and provides examples. A no-brainer bookmark.
 
 
@@ -36,7 +37,10 @@ Here, you will find resources that I find incredibly useful for learning new ski
     - [Internal All The Things](https://swisskyrepo.github.io/InternalAllTheThings/)
 
 - [hacktricks](https://book.hacktricks.xyz/) : Another great project offering qualitative and free ressources, based on the author's experience doing CTFs, real life pentesting and researches.
+- [BugBountyHunter](https://www.bugbountyhunter.com/getting-started/) : Best ressource out here for learning bug bounty.
+-[pwn.college](https://pwn.college/) :A comprehensive resource for learning about exploitation and binary analysis. It offers practical challenges and learning paths designed by experts in the field.
+-[Reverse engineering](https://0xinfection.github.io/reversing/) : A detailed guide to reverse engineering, offering tutorials and resources to help you understand and dissect software binaries.
 
 # Blue team learning
 
-- [LetsDefend](https://app.letsdefend.io/) : Nice ebsite dedicated to teach blue team operations, it gets right to the point.
+- [LetsDefend](https://app.letsdefend.io/) : Dedicated to teach blue team operations, it gets right to the point.
